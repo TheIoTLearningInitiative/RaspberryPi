@@ -17,6 +17,8 @@ pi@raspberrypi:~ $
 
 ## SysFs
 
+> GPIO Sysfs Interface for Userspace. Platforms which use the "gpiolib" implementors framework may choose to configure a sysfs user interface to GPIOs. This is different from the debugfs interface, since it provides control over GPIO direction and value instead of just showing a gpio state summary. Plus, it could be present on production systems without debugging support. []()
+
 ```sh
 pi@raspberrypi:~ $ cd /sys/class/gpio/
 pi@raspberrypi:/sys/class/gpio $ tree -L 1
