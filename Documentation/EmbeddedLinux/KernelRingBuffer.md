@@ -1,6 +1,35 @@
 # Kernel Ring Buffer
 
 ```sh
+DMESG(1)                                                                   User Commands                                                                   DMESG(1)
+
+NAME
+       dmesg - print or control the kernel ring buffer
+
+SYNOPSIS
+       dmesg [options]
+
+       dmesg --clear
+       dmesg --read-clear [options]
+       dmesg --console-level level
+       dmesg --console-on
+       dmesg --console-off
+
+DESCRIPTION
+       dmesg is used to examine or control the kernel ring buffer.
+
+       The default action is to display all messages from the kernel ring buffer.
+
+OPTIONS
+       The --clear, --read-clear, --console-on, --console-off, and --console-level options are mutually exclusive.
+
+       -C, --clear
+              Clear the ring buffer.
+...
+```
+
+```sh
+pi@raspberrypi:~ $ dmesg
 [    0.000000] Booting Linux on physical CPU 0x0
 [    0.000000] Linux version 4.9.59-v7+ (dc4@dc4-XPS13-9333) (gcc version 4.9.3 (crosstool-NG crosstool-ng-1.22.0-88-g8460611) ) #1047 SMP Sun Oct 29 12:19:23 GMT 2017
 [    0.000000] CPU: ARMv7 Processor [410fd034] revision 4 (ARMv7), cr=10c5383d
