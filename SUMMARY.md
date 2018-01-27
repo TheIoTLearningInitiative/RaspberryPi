@@ -9,7 +9,6 @@
 ## Embedded Linux
 
 * [Embedded Linux](Documentation/EmbeddedLinux/EmbeddedLinux.md)
-  * Filesystem
 * [Initialization](Documentation/EmbeddedLinux/Initialization.md)
   * [System Information](Documentation/EmbeddedLinux/SystemInformation.md)
   * [Kernel Ring Buffer](Documentation/EmbeddedLinux/KernelRingBuffer.md)
@@ -17,6 +16,9 @@
   * [User Directory](Documentation/EmbeddedLinux/UserDirectory.md)
   * [Kernel Modules](Documentation/EmbeddedLinux/KernelModules.md)
   * [Filesystem](Documentation/EmbeddedLinux/Filesystem.md)
+    * [DebugFs](Documentation/EmbeddedLinux/DebugFs.md)
+    * [SysFs](Documentation/EmbeddedLinux/SysFs.md)
+    * [ProcFs](Documentation/EmbeddedLinux/ProcFs.md)
   * [Memory](Documentation/EmbeddedLinux/Memory.md)
   * [Processes](Documentation/EmbeddedLinux/Processes.md)
 * [Subsystem](Documentation/EmbeddedLinux/Subsystem.md)
