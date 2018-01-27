@@ -7,4 +7,5 @@
   * [Initialization](Documentation/EmbeddedLinux/Initialization.md)
     * [Kernel Ring Buffer](Documentation/EmbeddedLinux/KernelRingBuffer.md)
     * [User Directory](Documentation/EmbeddedLinux/UserDirectory.md)
+    * [Root Directory](Documentation/EmbeddedLinux/RootDirectory.md)
 
