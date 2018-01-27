@@ -20,6 +20,11 @@
   * [Processes](Documentation/EmbeddedLinux/Processes.md)
 * [Subsystems](Documentation/EmbeddedLinux/Subsystems.md)
   * [Peripheral I/O](Documentation/EmbeddedLinux/PeripheralIo.md)
+    * [GPIO](Documentation/EmbeddedLinux/Gpio.md)
+    * [PWM](Documentation/EmbeddedLinux/Pwm.md)
+    * [I2C](Documentation/EmbeddedLinux/I2c.md)
+    * [SPI](Documentation/EmbeddedLinux/Spi.md)
+    * [UART](Documentation/EmbeddedLinux/Uart.md)
 
 ## Raspberry Pi Foundation
 
