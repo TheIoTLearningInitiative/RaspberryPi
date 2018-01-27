@@ -51,18 +51,42 @@ depends:        snd-pcm,snd
 intree:         Y
 vermagic:       4.9.59-v7+ SMP mod_unload modversions ARMv7 p2v8 
 parm:           force_bulk:Force use of vchiq bulk for audio (bool)
-pi@raspberrypi:~ $ modinfo bcm2835_gpiomem
-filename:       /lib/modules/4.9.59-v7+/kernel/drivers/char/broadcom/bcm2835-gpiomem.ko
-author:         Luke Wren <luke@raspberrypi.org>
-description:    gpiomem driver for accessing GPIO from userspace
-license:        GPL
-alias:          platform:gpiomem-bcm2835
-srcversion:     07C642FAA088A8BEB540534
-alias:          of:N*T*Cbrcm,bcm2835-gpiomemC*
-alias:          of:N*T*Cbrcm,bcm2835-gpiomem
-depends:        
-intree:         Y
-vermagic:       4.9.59-v7+ SMP mod_unload modversions ARMv7 p2v8 
 pi@raspberrypi:~ $ 
+```
+
+```sh
+for mod in `cat /proc/modules | cut -d " " -f 1`
+do
+    desc=`modinfo -d $mod`
+    printf "%-20s $desc\n" "$mod:"
+done
+```
+
+```sh
+fuse:                Filesystem in Userspace
+cmac:                CMAC keyed hash algorithm
+rfcomm:              Bluetooth RFCOMM ver 1.11
+bnep:                Bluetooth BNEP ver 1.3
+hci_uart:            Bluetooth HCI UART driver ver 2.3
+btbcm:               Bluetooth support for Broadcom devices ver 0.1
+bluetooth:           Bluetooth Core ver 2.22
+brcmfmac:            Broadcom 802.11 wireless LAN fullmac driver.
+brcmutil:            Broadcom 802.11n wireless LAN driver utilities.
+cfg80211:            wireless configuration support
+rfkill:              RF switch support
+snd_bcm2835:         Alsa driver for BCM2835 chip
+snd_pcm:             Midlevel PCM code for ALSA.
+snd_timer:           ALSA timer interface
+snd:                 Advanced Linux Sound Architecture driver for soundcards.
+bcm2835_gpiomem:     gpiomem driver for accessing GPIO from userspace
+joydev:              Joystick device interfaces
+evdev:               Input driver event char devices
+uio_pdrv_genirq:     Userspace I/O platform driver with generic IRQ handling
+fixed:               Fixed voltage regulator
+uio:                 
+i2c_dev:             I2C /dev entries driver
+ip_tables:           IPv4 packet filter
+x_tables:            {ip,ip6,arp,eb}_tables backend module
+ipv6:                IPv6 protocol stack for Linux
 ```
 
