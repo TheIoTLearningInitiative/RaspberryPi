@@ -6,7 +6,7 @@
 - Pulse Width Modulation (PWM)
 - Serial Communication
   - I2C
-SPI
+  - SPI
   - UART
 
 Links
