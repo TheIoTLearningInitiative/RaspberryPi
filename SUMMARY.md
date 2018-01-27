@@ -8,4 +8,5 @@
     * [Kernel Ring Buffer](Documentation/EmbeddedLinux/KernelRingBuffer.md)
     * [User Directory](Documentation/EmbeddedLinux/UserDirectory.md)
     * [Root Directory](Documentation/EmbeddedLinux/RootDirectory.md)
+    * [Kernel Modules](Documentation/EmbeddedLinux/KernelModules.md)
 

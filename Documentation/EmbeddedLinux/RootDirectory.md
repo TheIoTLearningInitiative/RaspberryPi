@@ -1,6 +1,7 @@
 # Root Directory
 
 ```sh
+pi@raspberrypi:~ $ cd /
 pi@raspberrypi:/ $ tree -L 1
 .
 ├── bin
@@ -24,5 +25,6 @@ pi@raspberrypi:/ $ tree -L 1
 └── var
 
 19 directories, 0 files
-pi@raspberrypi:/ $ 
+pi@raspberrypi:/ $ cd
+pi@raspberrypi:~ $ 
 ```
