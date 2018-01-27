@@ -1,7 +1,7 @@
 # System Information
 
 ```sh
-UNAME(1)                                                                   User Commands                                                                   UNAME(1)
+UNAME(1)                         User Commands                        UNAME(1)
 
 NAME
        uname - print system information
@@ -13,7 +13,8 @@ DESCRIPTION
        Print certain system information.  With no OPTION, same as -s.
 
        -a, --all
-              print all information, in the following order, except omit -p and -i if unknown:
+              print  all  information,  in the following order, except omit -p
+              and -i if unknown:
 ...
 ```
 
