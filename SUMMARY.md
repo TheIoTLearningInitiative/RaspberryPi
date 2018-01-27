@@ -1,7 +1,6 @@
 # Summary
 
 * [Cover](README.md)
-* [Sandbox](documentation/Sandbox.md)
 * [Introduction](Documentation/Introduction/Introduction.md)
 * [Embedded Linux](Documentation/EmbeddedLinux/EmbeddedLinux.md)
   * [Initialization](Documentation/EmbeddedLinux/Initialization.md)
@@ -13,4 +12,5 @@
     * [Filesystem](Documentation/EmbeddedLinux/Filesystem.md)
     * [Memory](Documentation/EmbeddedLinux/Memory.md)
     * [Processes](Documentation/EmbeddedLinux/Processes.md)
+* [Sandbox](documentation/Sandbox.md)
 
