@@ -5,6 +5,7 @@
 * [Introduction](Documentation/Introduction/Introduction.md)
 * [Embedded Linux](Documentation/EmbeddedLinux/EmbeddedLinux.md)
   * [Initialization](Documentation/EmbeddedLinux/Initialization.md)
+    * [System Information](Documentation/EmbeddedLinux/SystemInformation.md)
     * [Kernel Ring Buffer](Documentation/EmbeddedLinux/KernelRingBuffer.md)
     * [User Directory](Documentation/EmbeddedLinux/UserDirectory.md)
     * [Root Directory](Documentation/EmbeddedLinux/RootDirectory.md)
