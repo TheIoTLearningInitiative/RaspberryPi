@@ -1,7 +1,7 @@
 # Kernel Ring Buffer
 
 ```sh
-DMESG(1)                                                                   User Commands                                                                   DMESG(1)
+DMESG(1)                         User Commands                        DMESG(1)
 
 NAME
        dmesg - print or control the kernel ring buffer
@@ -18,13 +18,8 @@ SYNOPSIS
 DESCRIPTION
        dmesg is used to examine or control the kernel ring buffer.
 
-       The default action is to display all messages from the kernel ring buffer.
-
-OPTIONS
-       The --clear, --read-clear, --console-on, --console-off, and --console-level options are mutually exclusive.
-
-       -C, --clear
-              Clear the ring buffer.
+       The default action is to display all messages from the kernel ring buf‐
+       fer.
 ...
 ```
 
