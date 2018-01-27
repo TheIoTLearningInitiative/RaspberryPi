@@ -3,8 +3,8 @@
 ## Raspberry Pi
 
 * [Cover](README.md)
-* [Introduction](introduction.md)
-* Documentation
+* [Introduction](Documentation/Introduction/Introduction.md)
+* [Documentation](Documentation/Introduction/Documentation.md)
 * [Sandbox](documentation/Sandbox.md)
 
 ## Embedded Linux
