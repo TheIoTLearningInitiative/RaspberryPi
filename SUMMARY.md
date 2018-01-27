@@ -7,6 +7,7 @@
 * [Documentation](Documentation/Introduction/Documentation.md)
   * [Embedded Linux Wiki](Documentation/Introduction/EmbeddedLinuxWiki.md)
 * [Education](Documentation/Introduction/Education.md)
+  * [HelloWorld](Documentation/Introduction/HelloWorld.md)
 * [Raspberry Pi Foundation](Documentation/Introduction/RaspberryPiFoundation.md)
 * [Sandbox](documentation/Sandbox.md)
 
