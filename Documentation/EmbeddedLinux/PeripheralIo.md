@@ -12,6 +12,7 @@
 Links
 
 - [Raspberry Pi Pinout](https://pinout.xyz/)
+- [Android Things Raspberry Pi I/O](https://developer.android.com/things/hardware/raspberrypi-io.html)
 
 ## Pin Muxing
 
