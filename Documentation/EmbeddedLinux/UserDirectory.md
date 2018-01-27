@@ -1,5 +1,7 @@
 # User Directory
 
+## Command tree
+
 ```
 TREE(1)                     General Commands Manual                    TREE(1)
 

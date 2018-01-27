@@ -28,6 +28,33 @@ The following directories, or symbolic links to directories, must be in /, if th
      /root Home directory for the root user (optional)
 ```
 
+## Command tree
+
+```
+TREE(1)                     General Commands Manual                    TREE(1)
+
+NAME
+       tree - list contents of directories in a tree-like format.
+
+SYNOPSIS
+       tree  [-acdfghilnpqrstuvxACDFQNSUX]  [-L  level [-R]] [-H baseHREF] [-T
+       title] [-o filename] [--nolinks] [-P pattern] [-I  pattern]  [--inodes]
+       [--device] [--noreport] [--dirsfirst] [--version] [--help] [--filelimit
+       #]  [--si]  [--prune]  [--du]  [--timefmt  format]  [--matchdirs]  [--]
+       [directory ...]
+
+DESCRIPTION
+       Tree  is  a  recursive  directory listing program that produces a depth
+       indented listing of files, which is  colorized  ala  dircolors  if  the
+       LS_COLORS  environment  variable  is set and output is to tty.  With no
+       arguments, tree lists the files in the current directory.  When  direc‐
+       tory  arguments  are given, tree lists all the files and/or directories
+       found in the given directories each in turn.  Upon completion of  list‐
+       ing all files/directories found, tree returns the total number of files
+       and/or directories listed.
+...
+```
+
 ```sh
 pi@raspberrypi:~ $ cd /
 pi@raspberrypi:/ $ tree -L 1
