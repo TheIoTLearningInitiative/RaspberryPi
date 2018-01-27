@@ -9,7 +9,7 @@
 # Kernel Ring Buffer
 
 ```sh
-pi@raspberrypi:~ $ dmesg | grep gpio
+pi@raspberrypi:~ $ dmesg | grep -i gpio
 [    0.080031] uart-pl011 3f201000.serial: could not find pctldev for node /soc/gpio@7e200000/uart0_pins, deferring probe
 [    3.524055] gpiomem-bcm2835 3f200000.gpiomem: Initialised: Registers at 0x3f200000
 pi@raspberrypi:~ $ 
