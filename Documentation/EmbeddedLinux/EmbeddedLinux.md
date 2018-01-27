@@ -8,3 +8,8 @@
 
 > Linux now spans the spectrum of computing applications, including IBM's tiny Linux wrist watch, hand-held devices (PDAs and cell phones), Internet appliances, thin clients, firewalls, industrial robotics, telephony infrastructure equipment, and even cluster-based supercomputers. [IBM developerWorks Embedded Linux applications: An overview](http://www.ibm.com/developerworks/library/l-embl/)
 
+## Resources
+
+- [Texas Instruments Hands-On Training for TI Embedded Processors](http://processors.wiki.ti.com/index.php/Hands-On_Training_for_TI_Embedded_Processors)
+- [Linux Insides](https://www.gitbook.com/book/0xax/linux-insides/details)
+- [Introduction: a Typical Embedded System](http://www.linuxjournal.com/magazine/introduction-typical-embedded-system)
