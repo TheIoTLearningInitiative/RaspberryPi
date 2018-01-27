@@ -34,3 +34,35 @@ x_tables               20578  1 ip_tables
 ipv6                  408900  40
 pi@raspberrypi:~ $ 
 ```
+
+## Command modinfo
+
+```sh
+pi@raspberrypi:~ $ modinfo snd_bcm2835
+filename:       /lib/modules/4.9.59-v7+/kernel/sound/arm/snd-bcm2835.ko
+alias:          platform:bcm2835_alsa
+license:        GPL
+description:    Alsa driver for BCM2835 chip
+author:         Dom Cobley
+srcversion:     B872A627E265EFD08A9A41B
+alias:          of:N*T*Cbrcm,bcm2835-audioC*
+alias:          of:N*T*Cbrcm,bcm2835-audio
+depends:        snd-pcm,snd
+intree:         Y
+vermagic:       4.9.59-v7+ SMP mod_unload modversions ARMv7 p2v8 
+parm:           force_bulk:Force use of vchiq bulk for audio (bool)
+pi@raspberrypi:~ $ modinfo bcm2835_gpiomem
+filename:       /lib/modules/4.9.59-v7+/kernel/drivers/char/broadcom/bcm2835-gpiomem.ko
+author:         Luke Wren <luke@raspberrypi.org>
+description:    gpiomem driver for accessing GPIO from userspace
+license:        GPL
+alias:          platform:gpiomem-bcm2835
+srcversion:     07C642FAA088A8BEB540534
+alias:          of:N*T*Cbrcm,bcm2835-gpiomemC*
+alias:          of:N*T*Cbrcm,bcm2835-gpiomem
+depends:        
+intree:         Y
+vermagic:       4.9.59-v7+ SMP mod_unload modversions ARMv7 p2v8 
+pi@raspberrypi:~ $ 
+```
+
