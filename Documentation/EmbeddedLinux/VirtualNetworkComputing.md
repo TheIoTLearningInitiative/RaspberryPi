@@ -1,0 +1,3 @@
+# Virtual Network Computing
+
+> In computing, Virtual Network Computing (VNC) is a graphical desktop sharing system that uses the Remote Frame Buffer protocol (RFB) to remotely control another computer. It transmits the keyboard and mouse events from one computer to another, relaying the graphical screen updates back in the other direction, over a network. [Wikipedia](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
