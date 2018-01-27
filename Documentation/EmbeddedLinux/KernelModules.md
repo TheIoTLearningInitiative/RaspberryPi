@@ -5,7 +5,7 @@
 ## Command lsmod
 
 ```sh
-LSMOD(8)                                                                       lsmod                                                                       LSMOD(8)
+LSMOD(8)                             lsmod                            LSMOD(8)
 
 NAME
        lsmod - Show the status of modules in the Linux Kernel
@@ -14,7 +14,8 @@ SYNOPSIS
        lsmod
 
 DESCRIPTION
-       lsmod is a trivial program which nicely formats the contents of the /proc/modules, showing what kernel modules are currently loaded.
+       lsmod is a trivial program which nicely formats the contents of the
+       /proc/modules, showing what kernel modules are currently loaded.
 ...
 ```
 
