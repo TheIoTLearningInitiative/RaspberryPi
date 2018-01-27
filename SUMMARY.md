@@ -5,4 +5,5 @@
 * [Introduction](Documentation/Introduction/Introduction.md)
 * [Embedded Linux](Documentation/EmbeddedLinux/EmbeddedLinux.md)
   * [Initialization](Documentation/EmbeddedLinux/Initialization.md)
+    * [Kernel Ring Buffer](Documentation/EmbeddedLinux/KernelRingBuffer.md)
 
