@@ -12,5 +12,6 @@
     * [Filesystem](Documentation/EmbeddedLinux/Filesystem.md)
     * [Memory](Documentation/EmbeddedLinux/Memory.md)
     * [Processes](Documentation/EmbeddedLinux/Processes.md)
+  * [User Space](Documentation/EmbeddedLinux/UserSpace.md)
 * [Sandbox](documentation/Sandbox.md)
 

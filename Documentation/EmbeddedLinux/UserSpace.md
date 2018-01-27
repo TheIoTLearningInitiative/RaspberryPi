@@ -1,0 +1,3 @@
+# User Space
+
+> A modern computer operating system usually segregates virtual memory into kernel space and user space.[a] Primarily, this separation serves to provide memory protection and hardware protection from malicious or errant software behaviour. Kernel space is strictly reserved for running a privileged operating system kernel, kernel extensions, and most device drivers. In contrast, user space is the memory area where application software and some drivers execute. [Wikipedia](https://en.wikipedia.org/wiki/User_space)
