@@ -12,7 +12,6 @@
     * [Filesystem](Documentation/EmbeddedLinux/Filesystem.md)
     * [Memory](Documentation/EmbeddedLinux/Memory.md)
     * [Processes](Documentation/EmbeddedLinux/Processes.md)
-  * [User Space](Documentation/EmbeddedLinux/UserSpace.md)
-    * [Virtual Network Computing](Documentation/EmbeddedLinux/VirtualNetworkComputing.md)
+  * [Subsystems](Documentation/EmbeddedLinux/Subsystems.md)
 * [Sandbox](documentation/Sandbox.md)
 
