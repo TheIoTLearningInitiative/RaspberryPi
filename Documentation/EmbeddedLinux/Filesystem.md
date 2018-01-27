@@ -22,3 +22,17 @@ DESCRIPTION
        set, in which case 512-byte blocks are used.
 ...
 ```
+
+```sh
+pi@raspberrypi:~ $ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       7.1G  4.2G  2.6G  62% /
+devtmpfs        460M     0  460M   0% /dev
+tmpfs           464M   29M  435M   7% /dev/shm
+tmpfs           464M   18M  446M   4% /run
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           464M     0  464M   0% /sys/fs/cgroup
+/dev/mmcblk0p1   41M   21M   21M  51% /boot
+tmpfs            93M     0   93M   0% /run/user/1000
+pi@raspberrypi:~ $ 
+```
