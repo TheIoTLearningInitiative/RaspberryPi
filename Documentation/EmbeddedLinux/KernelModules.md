@@ -90,9 +90,15 @@ x_tables:            {ip,ip6,arp,eb}_tables backend module
 ipv6:                IPv6 protocol stack for Linux
 ```
 
+# Directory /lib/modules
+
 ```sh
 pi@raspberrypi:~ $ find /lib/modules/* -name 'uvc'
 /lib/modules/4.9.59+/kernel/drivers/media/usb/uvc
 /lib/modules/4.9.59-v7+/kernel/drivers/media/usb/uvc
 pi@raspberrypi:~ $ 
+```
+
+```sh
+pi@raspberrypi:~ $ find /lib/modules/* -name '*'
 ```
