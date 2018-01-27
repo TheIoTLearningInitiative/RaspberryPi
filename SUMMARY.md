@@ -32,7 +32,3 @@
     * [SPI](Documentation/EmbeddedLinux/Spi.md)
     * [UART](Documentation/EmbeddedLinux/Uart.md)
 
-## Raspberry Pi Foundation
-
-* [Introduction](Documentation/RaspberryPiFoundation/Introduction.md)
-
