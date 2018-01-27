@@ -1,8 +1,10 @@
 # Summary
 
+## Raspberry Pi
+
 * [Cover](README.md)
-* [Introduction](Documentation/Introduction/Introduction.md)
 * [Sandbox](documentation/Sandbox.md)
+* Introduction
 
 ## Embedded Linux
 
@@ -19,4 +21,6 @@
 * [Subsystems](Documentation/EmbeddedLinux/Subsystems.md)
 
 ## Raspberry Pi Foundation
+
+* [Introduction](Documentation/RaspberryPiFoundation/Introduction.md)
 
