@@ -19,6 +19,7 @@
   * [Memory](Documentation/EmbeddedLinux/Memory.md)
   * [Processes](Documentation/EmbeddedLinux/Processes.md)
 * [Subsystems](Documentation/EmbeddedLinux/Subsystems.md)
+  * [Peripheral I/O](Documentation/EmbeddedLinux/PeripheralIo.md)
 
 ## Raspberry Pi Foundation
 
