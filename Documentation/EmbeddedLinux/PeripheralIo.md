@@ -2,6 +2,15 @@
 
 > Peripheral I/O allows to communicate with sensors and actuators using industry standard protocols and interfaces.
 
+- General Purpose Input/Output (GPIO)
+- Pulse Width Modulation (PWM)
+- Serial Communication
+  - I2C
+SPI
+  - UART
+
+Links
+
 - [Raspberry Pi Pinout](https://pinout.xyz/)
 
 ## Pin Muxing
