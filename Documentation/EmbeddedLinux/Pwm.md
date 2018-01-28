@@ -1,1 +1,3 @@
-# 
+# Pulse Width Modulation
+
+> Pulse-width modulation (PWM), or pulse-duration modulation (PDM), is a modulation technique used to encode a message into a pulsing signal. Although this modulation technique can be used to encode information for transmission, its main use is to allow the control of the power supplied to electrical devices, especially to inertial[definition needed] loads such as motors. [Wikipedia](https://en.wikipedia.org/wiki/Pulse-width_modulation)
