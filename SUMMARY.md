@@ -15,7 +15,7 @@
 
 ## Embedded Linux
 
-* [Embedded Linux](Documentation/EmbeddedLinux/EmbeddedLinux.md)
+* [Introduction](Documentation/EmbeddedLinux/Introduction.md)
 * [Initialization](Documentation/EmbeddedLinux/Initialization.md)
   * [System Information](Documentation/EmbeddedLinux/SystemInformation.md)
   * [Kernel Ring Buffer](Documentation/EmbeddedLinux/KernelRingBuffer.md)
