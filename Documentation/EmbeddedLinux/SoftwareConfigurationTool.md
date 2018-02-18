@@ -1,6 +1,6 @@
 # Software Configuration Tool
 
-
+> __raspi-config__ is the Raspberry Pi configuration tool [Homepage](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)
 
 ```sh
 pi@raspberrypi:~ $ sudo raspi-config 
