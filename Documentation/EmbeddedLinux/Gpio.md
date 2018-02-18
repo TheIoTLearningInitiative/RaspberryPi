@@ -2,13 +2,18 @@
 
 > General-purpose input/output (GPIO) is a generic pin on an integrated circuit or computer board whose behavior—including whether it is an input or output pin—is controllable by the user at run time. [Wikipedia](https://en.wikipedia.org/wiki/General-purpose_input/output)
 
-- [Linux Kernel GPIO Documentation](https://www.kernel.org/doc/Documentation/gpio/)
-- [LWN GPIO In The Kernel: An Introduction](https://lwn.net/Articles/532714/)
-- [Wikipedia GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output)
+Hardware Perspective
+
 - [Raspberry Pi GPIO and Physical Computing](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
 - [Sparkfun Raspberry gPIo](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
 - [Adafruit GPIO Setup](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup?view=all)
 - [ELinux RPi GPIO Code Samples](https://elinux.org/RPi_GPIO_Code_Samples)
+
+Operating System Perspective
+
+- [Linux Kernel GPIO Documentation](https://www.kernel.org/doc/Documentation/gpio/)
+- [LWN GPIO In The Kernel: An Introduction](https://lwn.net/Articles/532714/)
+- [Wikipedia GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output)
 
 ## Kernel Ring Buffer
 
