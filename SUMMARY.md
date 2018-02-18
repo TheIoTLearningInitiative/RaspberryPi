@@ -39,4 +39,5 @@
     * [I2C](Documentation/EmbeddedLinux/I2c.md)
     * [SPI](Documentation/EmbeddedLinux/Spi.md)
     * [UART](Documentation/EmbeddedLinux/Uart.md)
+  * [Bluetooth](Documentation/EmbeddedLinux/Bluetooth.md)
 
