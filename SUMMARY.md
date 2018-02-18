@@ -6,6 +6,7 @@
 * [Introduction](Documentation/Introduction/Introduction.md)
 * [Documentation](Documentation/Introduction/Documentation.md)
   * [Embedded Linux Wiki](Documentation/Introduction/EmbeddedLinuxWiki.md)
+  * [Adafruit](Documentation/Introduction/Adafruit.md)
 * [Education](Documentation/Introduction/Education.md)
   * [HelloWorld](Documentation/Introduction/HelloWorld.md)
   * [HackSpace](Documentation/Introduction/HackSpace.md)
