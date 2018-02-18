@@ -5,6 +5,10 @@
 - [Linux Kernel GPIO Documentation](https://www.kernel.org/doc/Documentation/gpio/)
 - [LWN GPIO In The Kernel: An Introduction](https://lwn.net/Articles/532714/)
 - [Wikipedia GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output)
+- [Raspberry Pi GPIO and Physical Computing](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
+- [Sparkfun Raspberry gPIo](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
+- [Adafruit GPIO Setup](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup?view=all)
+- [ELinux RPi GPIO Code Samples](https://elinux.org/RPi_GPIO_Code_Samples)
 
 ## Kernel Ring Buffer
 
