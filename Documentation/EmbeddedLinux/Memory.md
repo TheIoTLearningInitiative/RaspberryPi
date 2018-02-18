@@ -1,5 +1,9 @@
 # Memory
 
+> __Random-access memory (RAM /ræm/)__ _is a form of computer data storage that stores data and machine code currently being used. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory._ [Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
+
+> __Paging__ _is a memory management scheme by which a computer stores and retrieves data from secondary storage[a] for use in main memory. In this scheme, the operating system retrieves data from secondary storage in same-size blocks called pages. Paging is an important part of virtual memory implementations in modern operating systems, using secondary storage to let programs exceed the size of available physical memory._ [Wikipedia](https://en.wikipedia.org/wiki/Paging)
+
 ## Command free
 
 ```sh
