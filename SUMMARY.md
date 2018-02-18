@@ -12,7 +12,7 @@
   * [HackSpace](Documentation/Introduction/HackSpace.md)
   * [MagPi](Documentation/Introduction/MagPi.md)
 * [Raspberry Pi Foundation](Documentation/Introduction/RaspberryPiFoundation.md)
-* [Sandbox](documentation/Sandbox.md)
+* [Sandbox](Documentation/Introduction/Sandbox.md)
 
 ## Embedded Linux
 
