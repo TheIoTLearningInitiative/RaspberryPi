@@ -30,6 +30,7 @@
   * [Memory](Documentation/EmbeddedLinux/Memory.md)
   * [Processes](Documentation/EmbeddedLinux/Processes.md)
   * [Interfaces](Documentation/EmbeddedLinux/Interfaces.md)
+  * [Software Configuration Tool](Documentation/EmbeddedLinux/SoftwareConfigurationTool.md)
 * [Subsystem](Documentation/EmbeddedLinux/Subsystem.md)
   * [Peripheral I/O](Documentation/EmbeddedLinux/PeripheralIo.md)
     * [GPIO](Documentation/EmbeddedLinux/Gpio.md)
