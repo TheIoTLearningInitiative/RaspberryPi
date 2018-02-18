@@ -28,6 +28,7 @@
     * [ProcFs](Documentation/EmbeddedLinux/ProcFs.md)
   * [Memory](Documentation/EmbeddedLinux/Memory.md)
   * [Processes](Documentation/EmbeddedLinux/Processes.md)
+  * [Interfaces](Documentation/EmbeddedLinux/Interfaces.md)
 * [Subsystem](Documentation/EmbeddedLinux/Subsystem.md)
   * [Peripheral I/O](Documentation/EmbeddedLinux/PeripheralIo.md)
     * [GPIO](Documentation/EmbeddedLinux/Gpio.md)
