@@ -4,10 +4,15 @@
 
 Hardware Perspective
 
-- [Raspberry Pi GPIO and Physical Computing](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
-- [Sparkfun Raspberry gPIo](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
-- [Adafruit GPIO Setup](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup?view=all)
-- [ELinux RPi GPIO Code Samples](https://elinux.org/RPi_GPIO_Code_Samples)
+> _One powerful feature of the Raspberry Pi is the row of GPIO (general purpose input/output) pins along the top edge of the board._ [Homepage](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/README.md)
+
+> _The comprehensive GPIO Pinout guide for the Raspberry Pi._ [Pinout Homepage](https://pinout.xyz/#)
+
+> _The Raspberry Pi offers up its GPIO over a standard male header on the board. Over the years the header has expanded from 26 pins to 40 pins while maintaining the original pinout._ [Sparkfun Raspberry gPIo](https://learn.sparkfun.com/tutorials/raspberry-gpio/gpio-pinout)
+
+> One of the great things about the Raspberry Pi is that it has a GPIO connector to which you can attach external hardware. [Adafruit GPIO Setup](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup?view=all)
+
+> _The Raspberry Pi GPIOs can be controlled using many programming languages._ [ELinux RPi GPIO Code Samples](https://elinux.org/RPi_GPIO_Code_Samples)
 
 Operating System Perspective
 
