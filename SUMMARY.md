@@ -3,7 +3,7 @@
 ## Raspberry Pi
 
 * [Cover](README.md)
-* [Introduction](Documentation/Introduction/Introduction.md)
+* [Raspberry Pi](Documentation/Introduction/RaspberryPi.md)
 * [Documentation](Documentation/Introduction/Documentation.md)
   * [Embedded Linux Wiki](Documentation/Introduction/EmbeddedLinuxWiki.md)
   * [Adafruit](Documentation/Introduction/Adafruit.md)
