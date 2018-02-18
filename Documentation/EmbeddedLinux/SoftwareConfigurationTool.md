@@ -16,7 +16,7 @@ Raspberry Pi Software Configuration Tool (raspi-config)
 8 Update               Update this tool to the latest version
 9 About raspi-config   Information about this configuration tool                              ```
 
-> 
+> __Interfacing Options__ _Configure connections to peripherals_
 
 ```sh
 P1 Camera      Enable/Disable connection to the Raspberry Pi Camera
@@ -29,7 +29,7 @@ P7 1-Wire      Enable/Disable one-wire interface
 P8 Remote GPIO Enable/Disable remote access to GPIO pins
 ```
 
-> Advanced Options _Configure advanced settings_
+> __Advanced Options__ _Configure advanced settings_
 
 ```sh
 A1 Expand Filesystem Ensures that all of the SD card storage is available to the OS
