@@ -5,3 +5,5 @@
 ## RPi Hub
 
 > The Raspberry Pi Wiki pages on this site is collaborative work - the Raspberry Pi Foundation is not responsible for content on these pages. [RPi Hub Wiki](https://elinux.org/RPi_Hub)
+
+- [The Raspberry Pi Projects](https://elinux.org/RPi_Projects)
