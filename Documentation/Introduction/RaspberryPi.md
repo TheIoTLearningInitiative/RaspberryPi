@@ -4,3 +4,4 @@
 
 - [A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
 - [Curated list of projects with raspberry pi](https://github.com/blackout314/awesome-raspberry-pi)
+- [Baking Pi – Operating Systems Development](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
