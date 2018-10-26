@@ -1,0 +1,11 @@
+default_view:
+  name: Raspberry Pi
+  view: yes
+  entities:
+    - group.group_system_monitor
+
+group_system_monitor:
+  name: System Monitor
+  entities:
+    - sensor.disk_use_percent
+    - sensor.memory_free
