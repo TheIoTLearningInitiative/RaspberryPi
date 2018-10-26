@@ -2,10 +2,22 @@ default_view:
   name: Raspberry Pi
   view: yes
   entities:
-    - group.group_system_monitor
+    - group.system_monitor_processor
+    - group.system_monitor_disk
 
-group_system_monitor:
-  name: System Monitor
+system_monitor_processor:
+  name: System Monitor Processor
   entities:
-    - sensor.disk_use_percent
+    - sensor.since_last_boot
+    - sensor.processor_use
+    - sensor.load_1m
+    - sensor.load_5m
+    - sensor.load_15m
     - sensor.memory_free
+
+system_monitor_disk:
+  name: System Monitor Disk
+  entities:
+    - sensor.disk_use_percent_
+    - sensor.disk_free_
+    - sensor.disk_use_percent_home

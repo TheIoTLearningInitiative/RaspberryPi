@@ -1,6 +1,15 @@
-- platform: cpuspeed
 - platform: systemmonitor
   resources:
+    - type: since_last_boot
+    - type: processor_use
+    - type: load_1m
+    - type: load_5m
+    - type: load_15m
     - type: disk_use_percent
-      arg: /home
+      arg: /    
+    - type: disk_free
+      arg: /
+    - type: disk_use_percent
+      arg: /home 
     - type: memory_free
+    - type: memory_use_percent
