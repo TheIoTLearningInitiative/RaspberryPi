@@ -1,0 +1,7 @@
+use_include_order: True
+exclude:
+  domains:
+    - automation
+include:
+  domains:
+    - sensor

@@ -1,0 +1,19 @@
+gr1:
+  name: System Monitor Processor
+  entities:
+    - sensor.processor_use
+    - sensor.load_1m
+    - sensor.load_10m
+    - sensor.load_15m
+    - sensor.memory_free
+  hours_to_show: 24
+  refresh: 30
+
+gr1:
+  name: System Monitor Disk
+  entities:
+    - sensor.disk_use_percent_
+    - sensor.disk_free_
+    - sensor.disk_use_percent_home
+  hours_to_show: 24
+  refresh: 30

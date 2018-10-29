@@ -1,3 +1,8 @@
+- platform: time_date
+  name: time
+  display_options:
+    - 'time'
+
 - platform: systemmonitor
   resources:
     - type: since_last_boot
@@ -6,10 +11,10 @@
     - type: load_5m
     - type: load_15m
     - type: disk_use_percent
-      arg: /    
+      arg: /
     - type: disk_free
       arg: /
     - type: disk_use_percent
-      arg: /home 
+      arg: /home
     - type: memory_free
     - type: memory_use_percent

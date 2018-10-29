@@ -2,13 +2,19 @@ default_view:
   name: Raspberry Pi
   view: yes
   entities:
+    - group.system_time
     - group.system_monitor_processor
     - group.system_monitor_disk
+
+system_time:
+  name: Time
+  entities:
+    - sensor.time
+    - sensor.since_last_boot
 
 system_monitor_processor:
   name: System Monitor Processor
   entities:
-    - sensor.since_last_boot
     - sensor.processor_use
     - sensor.load_1m
     - sensor.load_5m

@@ -68,3 +68,5 @@ group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
 sensor: !include sensor.yaml
+history_graph: !include history_graph.yaml
+history: !include history.yaml
